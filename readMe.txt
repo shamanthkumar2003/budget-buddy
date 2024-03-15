@@ -28,3 +28,5 @@ FIRST Download
 USER LOGIN: create your own
 
 After login and signup it is all ready for use
+
+You can see screenshots in issue.
